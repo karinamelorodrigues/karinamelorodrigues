@@ -4,11 +4,6 @@
 - 🌱 Atualmente estudando React e Gatsby
 - 😄 Pronomes: ela/dela
 
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=karinamelorodrigues&count_private=true&theme=dracula"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinamelorodrigues&theme=dracula"/>
-</div>
-
 ##
 <h3>Linguagens e Tecnologias</h3>
 <div style="display: inline_block">
@@ -37,6 +32,13 @@
   <a href="https://wa.me/5553984848978" target="_blank">
     <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+</div>
+
+##
+
+<div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=karinamelorodrigues&count_private=true&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinamelorodrigues&theme=dracula"/>
 </div>
 
 ![Snake animation](https://github.com/karinamelorodrigues/karinamelorodrigues/blob/output/github-contribution-grid-snake.svg)
