@@ -1,6 +1,6 @@
 ### Olá! Sou a Karina Rodrigues 👋
 
-- 🔭 Estou trabalhando com RPA - Robotic Process Automation
+- 🔭 Estou trabalhando como desenvolvedora fullstack júnior
 - 🌱 Atualmente estudando React e Gatsby
 - 😄 Pronomes: ela/dela
 
