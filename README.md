@@ -1,7 +1,6 @@
-### Olá! Sou a Karina Rodrigues 👋
+### Olá! Sou a Karina 👋
 
 - 🔭 Estou trabalhando como desenvolvedora fullstack júnior
-- 🌱 Atualmente estudando React e Gatsby
 - 😄 Pronomes: ela/dela
 
 ##
